@@ -22,4 +22,4 @@ Python 2.7 or later. Python modules: netCDF4, numpy, pandas, matplotlib
 
 ## Procedure
 
-You can access the Jupyter Notebook [here](netcdf_open_visualize.ipynb)
+You can access the Jupyter Notebook [here](netcdf_open_visualize.ipynb).
