@@ -1,4 +1,4 @@
-# Opening and visualizing a netCDF fileOpening and visualizing a netCDF file
+# Opening and visualizing a netCDF file in Python
 
 *Author: Rupesh Shrestha*  
 *Date: March 21, 2018*  
