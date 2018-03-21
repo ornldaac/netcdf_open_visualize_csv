@@ -19,3 +19,7 @@ The source data is a netCDF file ([soil_moist_20min_Kendall_AZ_n1400.nc](https:/
 ## Prerequisites
 
 Python 2.7 or later. Python modules: netCDF4, numpy, pandas, matplotlib
+
+## Procedure
+
+You can access the Jupyter Notebook [here](netcdf_open_visualize.ipynb)
