@@ -1,6 +1,6 @@
 # Opening and visualizing a netCDF file in Python
 
-*Author: Rupesh Shrestha*  
+*Author: ORNL DAAC*  
 *Date: March 21, 2018*  
 *Contact for ORNL DAAC: uso@daac.ornl.gov*
 
